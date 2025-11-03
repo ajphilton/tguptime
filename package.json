@@ -1,0 +1,12 @@
+{
+  "name": "tguptime-client",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Minimal static client scaffold for tguptime",
+  "scripts": {
+    "start": "npx http-server public -p 3000",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "author": "",
+  "license": "MIT"
+}
